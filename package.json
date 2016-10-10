@@ -1,0 +1,19 @@
+{
+  "name": "medcheck",
+  "version": "1.0.0",
+  "description": "startup project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tongthang0104@github.com/tongthang0104/MedCheck.git"
+  },
+  "author": "Thang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tongthang0104/MedCheck/issues"
+  },
+  "homepage": "https://github.com/tongthang0104/MedCheck#readme"
+}
