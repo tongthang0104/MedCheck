@@ -2,7 +2,8 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './app'
+import style from './main.css';
+import App from './components/app';
 
 // const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
 
